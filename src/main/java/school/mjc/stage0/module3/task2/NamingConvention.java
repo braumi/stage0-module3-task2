@@ -2,7 +2,7 @@ package school.mjc.stage0.module3.task2;
 
 public class NamingConvention {
     public static void main(String[] args) {
-        int variableTen = 10;
+        int variableZro = 0;
         int variableOne = 1;
         int variableTwo = 2;
         int variableThree = 3;
