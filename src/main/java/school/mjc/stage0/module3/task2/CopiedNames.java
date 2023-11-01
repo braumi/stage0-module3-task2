@@ -2,7 +2,7 @@ package school.mjc.stage0.module3.task2;
 
 public class CopiedNames {
     public static void main(String[] args) {
-        int variable = 0;
+        int variable = 1;
         int variable1 = 2000;
         int value = 1000;
         int variable2 = 4000;
